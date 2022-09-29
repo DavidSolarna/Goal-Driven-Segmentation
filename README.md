@@ -14,7 +14,7 @@ After the environment is created, install the PyMaxflow package from pip with th
 
 The python code can be run using the command:
 
-**python main.py -c config.json"
+**python main.py -c config.json"**
 
 where the config.json file contains the configuration parameters.
 
