@@ -1,0 +1,19 @@
+{
+	"image_path":"",
+    "min_value_seed":80,
+    "max_value_seed":255,
+    "beta":1,
+    "gamma":1,
+    "thr_memb":0.7,
+    "preproc_level":1,
+	"start_x":null,
+	"start_y":null,
+	"end_x":null,
+	"end_y":null,
+    "step_x":50,
+    "step_y":50,
+    "max_std":30,
+    "window_size":5,
+    "model_type":"GAUSSIAN",
+    "seed_file":-1
+}

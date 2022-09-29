@@ -1,0 +1,10 @@
+version: '3'
+services:
+  
+  goal_driven_segm_docker:
+    build: .
+    image: goal_driven_segm_image
+    container_name: "goal_driven_segm_cont"
+    volumes:
+        - ./data:/app/data
+    tty: true
